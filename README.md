@@ -7,5 +7,4 @@ Gostei muito deste projeto.
 
 Uma ideia para a próxima versão é aumentar  a velocidade da cobrinha à medida que ela vai crescendo.
 
-
-
+Abraços a todos da DIO
